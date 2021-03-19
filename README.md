@@ -10,6 +10,4 @@
  
  Backend - PHP,MySQL
  
- site Link : https://aachal183.github.io/Banking_system/
  
- follow the link to have a look of website.
