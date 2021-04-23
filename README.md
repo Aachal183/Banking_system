@@ -10,4 +10,6 @@
  
  Backend - PHP,MySQL
  
- website link: https://sparksfooundation.000webhostapp.com. As it is not responsive please open the site in desktop/laptop.
+ website link: https://sparksfooundation.000webhostapp.com. 
+
+As it is not responsive please open the site on desktop/laptop only.
